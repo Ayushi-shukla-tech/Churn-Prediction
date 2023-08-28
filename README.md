@@ -23,6 +23,8 @@ Once our model is performing well, we put it to work. It starts analyzing new cu
 Continuous Improvement:
 Churn prediction is an ongoing process. As we gather more data and learn from customer behaviors, we can refine our model and strategies. This helps us stay ahead of customer preferences and keep our churn rate low over time.
 
+# **DEMONSTRAION OF MY WORK AS YOU CAN SEE**
+
 ![streamlit-app](https://github.com/Ayushi-shukla-tech/Churn-Prediction/assets/96163798/3cc690b0-892b-4f7c-972f-32ab718d178f)
 
 
